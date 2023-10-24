@@ -1,0 +1,82 @@
+2023-10-20 22:39:19,794 [70429] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-10-20 22:39:19,794 [70429] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-10-20 22:39:19,794 [70429] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-10-20 22:39:19,795 [70429] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-10-20 22:39:19,795 [70429] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-10-20 22:39:19,795 [70429] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-10-20 22:39:19,985 [70429] DEBUG    segment:24: [JupyterRequire] making request: {"batch": [{"integrations": {}, "anonymousId": null, "timestamp": "2023-10-20T17:09:19.480095+00:00", "context": {"library": {"name": "analytics-python", "version": "1.4.0"}}, "type": "identify", "userId": "dc16428a-4731-11ee-a1fc-aaae6a3c151b", "traits": {"version_python": [3, 9, 12, "final", 0], "version_pandas": "1.5.3", "version_ipywidgets": "8.0.3", "version_sys": "3.9.12 (main, Apr  5 2022, 01:53:17) \n[Clang 12.0.0 ]", "version_mito": "0.1.501", "package_name": "mitosheet", "version_jupyterlab": "3.6.5", "version_notebook": "6.0.0", "operating_system": "Darwin", "email": "kode.runner.me@gmail.com", "local": true, "jupyterlite": false, "intended_behavior": null, "feedbacks": [], "feedbacks_v2": {"company/organization": [{"date": "2023-09-28", "num_usages": 20, "questions_and_answers": [{"question": "Your Company/Organization", "answer": "Personal"}]}]}}, "messageId": "6ea44d2e-b7c5-463d-9c5e-540049ea2f0e"}], "sentAt": "2023-10-20T17:09:19.985548+00:00"}
+2023-10-20 22:39:20,166 [70429] DEBUG    urllib3.connectionpool:1014: [JupyterRequire] Starting new HTTPS connection (1): api.segment.io:443
+2023-10-20 22:39:20,588 [70429] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-10-20 22:39:20,588 [70429] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-10-20 22:39:20,588 [70429] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-10-20 22:39:20,590 [70429] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-10-20 22:39:20,591 [70429] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-10-20 22:39:20,591 [70429] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-10-20 22:39:21,530 [70429] DEBUG    urllib3.connectionpool:473: [JupyterRequire] https://api.segment.io:443 "POST /v1/batch HTTP/1.1" 200 21
+2023-10-20 22:39:21,532 [70429] DEBUG    segment:52: [JupyterRequire] data uploaded successfully
+2023-10-20 22:40:47,511 [70573] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-10-20 22:40:47,511 [70573] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-10-20 22:40:47,511 [70573] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-10-20 22:40:47,512 [70573] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-10-20 22:40:47,512 [70573] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-10-20 22:40:47,512 [70573] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-10-20 22:40:47,703 [70573] DEBUG    segment:24: [JupyterRequire] making request: {"batch": [{"integrations": {}, "anonymousId": null, "timestamp": "2023-10-20T17:10:47.197693+00:00", "context": {"library": {"name": "analytics-python", "version": "1.4.0"}}, "type": "identify", "userId": "dc16428a-4731-11ee-a1fc-aaae6a3c151b", "traits": {"version_python": [3, 9, 12, "final", 0], "version_pandas": "1.5.3", "version_ipywidgets": "8.0.3", "version_sys": "3.9.12 (main, Apr  5 2022, 01:53:17) \n[Clang 12.0.0 ]", "version_mito": "0.1.501", "package_name": "mitosheet", "version_jupyterlab": "3.6.5", "version_notebook": "6.0.0", "operating_system": "Darwin", "email": "kode.runner.me@gmail.com", "local": true, "jupyterlite": false, "intended_behavior": null, "feedbacks": [], "feedbacks_v2": {"company/organization": [{"date": "2023-09-28", "num_usages": 20, "questions_and_answers": [{"question": "Your Company/Organization", "answer": "Personal"}]}]}}, "messageId": "18173c1c-669b-4f01-8d1b-5253a2fa4b2d"}], "sentAt": "2023-10-20T17:10:47.703016+00:00"}
+2023-10-20 22:40:47,897 [70573] DEBUG    urllib3.connectionpool:1014: [JupyterRequire] Starting new HTTPS connection (1): api.segment.io:443
+2023-10-20 22:40:48,385 [70573] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-10-20 22:40:48,385 [70573] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-10-20 22:40:48,385 [70573] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-10-20 22:40:48,387 [70573] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-10-20 22:40:48,387 [70573] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-10-20 22:40:48,387 [70573] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-10-20 22:40:49,036 [70573] DEBUG    urllib3.connectionpool:473: [JupyterRequire] https://api.segment.io:443 "POST /v1/batch HTTP/1.1" 200 21
+2023-10-20 22:40:49,038 [70573] DEBUG    segment:52: [JupyterRequire] data uploaded successfully
+2023-10-20 22:41:05,990 [70429] DEBUG    segment:54: [JupyterRequire] consumer exited.
+2023-10-20 22:41:10,287 [70606] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-10-20 22:41:10,287 [70606] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-10-20 22:41:10,287 [70606] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-10-20 22:41:10,288 [70606] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-10-20 22:41:10,288 [70606] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-10-20 22:41:10,288 [70606] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-10-20 22:41:10,450 [70606] DEBUG    segment:24: [JupyterRequire] making request: {"batch": [{"integrations": {}, "anonymousId": null, "timestamp": "2023-10-20T17:11:09.944726+00:00", "context": {"library": {"name": "analytics-python", "version": "1.4.0"}}, "type": "identify", "userId": "dc16428a-4731-11ee-a1fc-aaae6a3c151b", "traits": {"version_python": [3, 9, 12, "final", 0], "version_pandas": "1.5.3", "version_ipywidgets": "8.0.3", "version_sys": "3.9.12 (main, Apr  5 2022, 01:53:17) \n[Clang 12.0.0 ]", "version_mito": "0.1.501", "package_name": "mitosheet", "version_jupyterlab": "3.6.5", "version_notebook": "6.0.0", "operating_system": "Darwin", "email": "kode.runner.me@gmail.com", "local": true, "jupyterlite": false, "intended_behavior": null, "feedbacks": [], "feedbacks_v2": {"company/organization": [{"date": "2023-09-28", "num_usages": 20, "questions_and_answers": [{"question": "Your Company/Organization", "answer": "Personal"}]}]}}, "messageId": "55ec9bf0-76d5-46cd-bd10-2c231539cd34"}], "sentAt": "2023-10-20T17:11:10.450011+00:00"}
+2023-10-20 22:41:10,460 [70606] DEBUG    urllib3.connectionpool:1014: [JupyterRequire] Starting new HTTPS connection (1): api.segment.io:443
+2023-10-20 22:41:10,804 [70606] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-10-20 22:41:10,804 [70606] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-10-20 22:41:10,805 [70606] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-10-20 22:41:10,806 [70606] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-10-20 22:41:10,807 [70606] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-10-20 22:41:10,807 [70606] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-10-20 22:41:11,610 [70606] DEBUG    urllib3.connectionpool:473: [JupyterRequire] https://api.segment.io:443 "POST /v1/batch HTTP/1.1" 200 21
+2023-10-20 22:41:11,623 [70606] DEBUG    segment:52: [JupyterRequire] data uploaded successfully
+2023-10-20 22:44:24,168 [70606] DEBUG    segment:54: [JupyterRequire] consumer exited.
+2023-10-20 22:44:29,719 [70859] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-10-20 22:44:29,719 [70859] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-10-20 22:44:29,719 [70859] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-10-20 22:44:29,720 [70859] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-10-20 22:44:29,720 [70859] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-10-20 22:44:29,720 [70859] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-10-20 22:44:29,937 [70859] DEBUG    urllib3.connectionpool:1014: [JupyterRequire] Starting new HTTPS connection (1): api.segment.io:443
+2023-10-20 22:44:30,246 [70859] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-10-20 22:44:30,246 [70859] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-10-20 22:44:30,246 [70859] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-10-20 22:44:30,248 [70859] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-10-20 22:44:30,249 [70859] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-10-20 22:44:30,249 [70859] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-10-20 22:44:31,247 [70859] DEBUG    urllib3.connectionpool:473: [JupyterRequire] https://api.segment.io:443 "POST /v1/batch HTTP/1.1" 200 21
+2023-10-20 22:44:31,256 [70859] DEBUG    segment:52: [JupyterRequire] data uploaded successfully
+2023-10-20 22:53:14,018 [70859] DEBUG    segment:54: [JupyterRequire] consumer exited.
+2023-10-20 22:53:20,905 [71490] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-10-20 22:53:20,905 [71490] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-10-20 22:53:20,905 [71490] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-10-20 22:53:20,906 [71490] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-10-20 22:53:20,906 [71490] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-10-20 22:53:20,906 [71490] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-10-20 22:53:21,050 [71490] DEBUG    segment:24: [JupyterRequire] making request: {"batch": [{"integrations": {}, "anonymousId": null, "timestamp": "2023-10-20T17:23:20.544980+00:00", "context": {"library": {"name": "analytics-python", "version": "1.4.0"}}, "type": "identify", "userId": "dc16428a-4731-11ee-a1fc-aaae6a3c151b", "traits": {"version_python": [3, 9, 12, "final", 0], "version_pandas": "1.5.3", "version_ipywidgets": "8.0.3", "version_sys": "3.9.12 (main, Apr  5 2022, 01:53:17) \n[Clang 12.0.0 ]", "version_mito": "0.1.501", "package_name": "mitosheet", "version_jupyterlab": "3.6.5", "version_notebook": "6.0.0", "operating_system": "Darwin", "email": "kode.runner.me@gmail.com", "local": true, "jupyterlite": false, "intended_behavior": null, "feedbacks": [], "feedbacks_v2": {"company/organization": [{"date": "2023-09-28", "num_usages": 20, "questions_and_answers": [{"question": "Your Company/Organization", "answer": "Personal"}]}]}}, "messageId": "de90b592-a65e-48f9-a538-f46bff74f0a8"}], "sentAt": "2023-10-20T17:23:21.050164+00:00"}
+2023-10-20 22:53:21,125 [71490] DEBUG    urllib3.connectionpool:1014: [JupyterRequire] Starting new HTTPS connection (1): api.segment.io:443
+2023-10-20 22:53:21,429 [71490] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-10-20 22:53:21,429 [71490] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-10-20 22:53:21,429 [71490] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-10-20 22:53:21,432 [71490] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-10-20 22:53:21,432 [71490] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-10-20 22:53:21,433 [71490] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-10-20 22:53:22,387 [71490] DEBUG    urllib3.connectionpool:473: [JupyterRequire] https://api.segment.io:443 "POST /v1/batch HTTP/1.1" 200 21
+2023-10-20 22:53:22,388 [71490] DEBUG    segment:52: [JupyterRequire] data uploaded successfully
